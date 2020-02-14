@@ -1,0 +1,32 @@
+
+p {
+    background-color: transparent;
+    text-align: center;
+    font-style: italic;
+    font-size: 60;
+    color: fuchsia;
+    
+}
+ul#ul li{
+    display:inline;
+    margin-right: 10px;
+   
+}
+ul#ul li a{
+    color: white;
+    font-size: 30;
+}
+body{
+    background-image: url('travel.jpg');
+    background-repeat:  no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+ul{
+    text-align: right;
+    font-style: bold;
+}
+p {
+    color: goldenrod;
+
+}
